@@ -1,0 +1,15 @@
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\bin\Debug\net6.0\Control_Work_JS_1quater.exe
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\bin\Debug\net6.0\Control_Work_JS_1quater.deps.json
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\bin\Debug\net6.0\Control_Work_JS_1quater.runtimeconfig.json
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\bin\Debug\net6.0\Control_Work_JS_1quater.dll
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\bin\Debug\net6.0\Control_Work_JS_1quater.pdb
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.csproj.AssemblyReference.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.AssemblyInfoInputs.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.AssemblyInfo.cs
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.csproj.CoreCompileInputs.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.dll
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\refint\Control_Work_JS_1quater.dll
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.pdb
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\Control_Work_JS_1quater.genruntimeconfig.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Control_Work_JS_1quater\obj\Debug\net6.0\ref\Control_Work_JS_1quater.dll

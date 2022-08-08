@@ -18,7 +18,11 @@ string element7 = Console.ReadLine();
 Console.Write("Задайте восьмой элемент массива:");
 string element8 = Console.ReadLine();
 
-for (int i = 0; i < 8; i++)
+string[] initialArray = new string[] { element1, element2, element3, element4, element5, element6, element7, element8 };
+
+Console.WriteLine("Первоначальный массив:");
+
+for (int i = 0; i < initialArray.Length; i++)
 {
-    array[i] = new Random().Next(1000);
-    Console.Write(array[i] + ";");
+    Console.Write(initialArray[i] + ";");
+}

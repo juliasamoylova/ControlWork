@@ -36,9 +36,5 @@ for (int i = 0; i < initialArray.Length; i++)
     {
         finalArray[i] = initialArray[i];
     }
-    // else
-    // {
-    //     finalArray[i] = string.Empty;
-    // }
     Console.Write(finalArray[i] + ";");
 }

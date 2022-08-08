@@ -32,13 +32,13 @@ Console.WriteLine("Финальный массив:");
 
 for (int i = 0; i < initialArray.Length; i++)
 {
-    if (initialArray[i].Length <= 3)
+    if (initialArray[i].Length > 3) continue;
     {
         finalArray[i] = initialArray[i];
     }
-    else
-    {
-        finalArray[i] = string.Empty;
-    }
+    // else
+    // {
+    //     finalArray[i] = string.Empty;
+    // }
     Console.Write(finalArray[i] + ";");
 }

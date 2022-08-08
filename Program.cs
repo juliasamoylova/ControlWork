@@ -26,3 +26,19 @@ for (int i = 0; i < initialArray.Length; i++)
 {
     Console.Write(initialArray[i] + ";");
 }
+Console.WriteLine();
+string[] finalArray = new string[8];
+Console.WriteLine("Финальный массив:");
+
+for (int i = 0; i < initialArray.Length; i++)
+{
+    if (initialArray[i].Length <= 3)
+    {
+        finalArray[i] = initialArray[i];
+    }
+    else
+    {
+        finalArray[i] = string.Empty;
+    }
+    Console.Write(finalArray[i] + ";");
+}
